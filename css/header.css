@@ -1,4 +1,4 @@
-.header {
+ .header{
     max-width: 1200px;
     padding: 40px 20px;
     margin: 0 auto;
@@ -6,6 +6,7 @@
     justify-content: space-between;
      align-items: center; 
 }
+
 
 .header-menu {
     display: flex;
@@ -34,4 +35,4 @@
         background: #CCC;
         border-radius: 4px;
     }
-}
+} 

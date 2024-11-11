@@ -47,7 +47,9 @@ img {
     justify-content: space-between;
     align-items: center
 }
-
+.header img{
+margin-left: -5px;
+}
 .header-menu {
     display: flex;
     gap: 10px;
@@ -70,6 +72,10 @@ img {
         gap: 40px;
         padding: 20px
     }
+    .header img{
+        
+        margin: 0 auto;
+        }
 
     .header a {
         background: #ccc;
